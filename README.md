@@ -7,12 +7,14 @@
 
 - 👯 I’m looking to collaborate on **CON PROYECTOS RELACIONADOS A DESARROLLO DE PAGINAS WEB**
 
-- 👨‍💻 All of my projects are available at [INGENIERA EN SISTEMAS](INGENIERA EN SISTEMAS)
+- 👨‍💻 All of my projects are available at [https://github.com/GredysCarrillo/GredysCarrillo](https://github.com/GredysCarrillo/GredysCarrillo)
 
 - 📫 How to reach me **gcarrillop2@miumg.edu.gt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/gredy carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gredy carrillo" height="30" width="40" /></a>
+<a href="https://instagram.com/gredyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gredyp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
